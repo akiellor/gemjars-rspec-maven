@@ -21,7 +21,7 @@
     <repositories>
         <repository>
             <id>gemjars-local</id>
-            <url>http://localhost:8080/maven/</url>
+            <url>http://gemjars.org/maven/</url>
             <layout>default</layout>
         </repository>
     </repositories>
