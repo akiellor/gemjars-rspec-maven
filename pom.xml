@@ -21,7 +21,7 @@
     <repositories>
         <repository>
             <id>gemjars-local</id>
-            <url>http://gemjars.org/maven/</url>
+            <url>http://deux.gemjars.org</url>
             <layout>default</layout>
         </repository>
     </repositories>
